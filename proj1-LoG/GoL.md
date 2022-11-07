@@ -1,1 +1,0 @@
-![GliderGuns](GliderGuns.gif)
